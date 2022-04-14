@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: white;
+  margin: 0;
+  font-size: 60px;
+  font-weight: bold;
+  /* padding: 20px; */
+}
+
+h2{
+  color: #E0E0E0;
+  margin:auto;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 1.5;
+  width: 32%;
+  text-align: left;
+}
+
+p{
+  margin:0;
+  color: #211D37;
+}
+
+
+.top-container{
+  background-color: #211D37;
+  padding-top: 120px;
+}
+
+.mid-container{
+  background-color: #EFEFEF;
+  width: auto;
+  padding-top: 270px;
+  padding-bottom: 270px;
+}
+
+.bottom-container{
+  background-color: #E0E0E0;
+  /* height: 80px; */
+  width: auto;
+}
+
+.profile-picture{
+  display: block;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.iam{
+  font-size: 48px;
+  color: #8E79A8;
+}
+
+.sidqi{
+  display: inline-block;
+}
+
+.sidqi-description{
+  display: inline-block;
+  padding-left: 24px;
+}
+
+.portfolio{
+  text-decoration: none;
+  color: #8E79A8;
+}
+
+.portfolio:hover {
+  text-decoration: underline;
+}
+
+.lets-talk{
+  color: #211D37;
+  font-size: 60px;
+}
+
+.lets-talk-description{
+  padding-top: 20px;
+  width: 50%;
+  margin: auto;
+  line-height: 1.5;
+  font-size: 24px;
+}
+
+.wa{
+  color: #765697;
+  text-decoration: none;
+}
+
+.wa:hover{
+  text-decoration: underline;
+}
+
+.sosmed{
+  padding: 32px 16px 30px 0;
+  align-items: center;
+}
+
+.icon{
+  color: grey;
+  width: 28px;
+  height: 28px;
+  margin: 0 12px 0 12px;
+}
+
+.icon:hover{
+  color: #765697;
+}
